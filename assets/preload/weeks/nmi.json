@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Departure",
+			"nmi",
+			[
+				255,
+				20,
+				20
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "nmi",
+	"difficulties": "Hard, Chaos",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Escapism",
+	"weekName": "Escapism",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

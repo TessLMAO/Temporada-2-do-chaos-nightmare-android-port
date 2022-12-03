@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nmi-s3.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fall0000" x="0" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0001" x="0" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0002" x="1283" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0003" x="1283" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0004" x="2566" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0005" x="2566" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0006" x="3849" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0007" x="3849" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0008" x="5132" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0009" x="5132" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0010" x="5132" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0011" x="5132" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0012" x="5132" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0013" x="5132" y="0" width="1233" height="893"/>
+	<SubTexture name="fall0014" x="5132" y="0" width="1233" height="893"/>
+	<SubTexture name="nmi front0000" x="6415" y="0" width="1233" height="893"/>
+	<SubTexture name="nmi front0001" x="0" y="943" width="1233" height="893"/>
+	<SubTexture name="nmi front0002" x="1283" y="943" width="1233" height="893"/>
+	<SubTexture name="nmi front0003" x="2566" y="943" width="1233" height="893"/>
+	<SubTexture name="nmi front0004" x="3849" y="943" width="1233" height="893"/>
+	<SubTexture name="nmi front0005" x="5132" y="943" width="1233" height="893"/>
+	<SubTexture name="nmi front0006" x="6415" y="943" width="1233" height="893"/>
+	<SubTexture name="nmi front0007" x="6415" y="943" width="1233" height="893"/>
+	<SubTexture name="nmi front0008" x="0" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front0009" x="0" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front0010" x="1283" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front0011" x="1283" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front0012" x="2566" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front0013" x="2566" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front0014" x="3849" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front down0000" x="5132" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front down0001" x="5132" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front down0002" x="6415" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front down0003" x="6415" y="1886" width="1233" height="893"/>
+	<SubTexture name="nmi front down0004" x="0" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0005" x="0" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0006" x="1283" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0007" x="1283" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0008" x="2566" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0009" x="2566" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0010" x="2566" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0011" x="2566" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0012" x="2566" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0013" x="2566" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front down0014" x="2566" y="2829" width="1233" height="893"/>
+	<SubTexture name="nmi front left0000" x="3849" y="2829" width="1233" height="924"/>
+	<SubTexture name="nmi front left0001" x="3849" y="2829" width="1233" height="924"/>
+	<SubTexture name="nmi front left0002" x="5132" y="2829" width="1233" height="924"/>
+	<SubTexture name="nmi front left0003" x="5132" y="2829" width="1233" height="924"/>
+	<SubTexture name="nmi front left0004" x="6415" y="2829" width="1233" height="924"/>
+	<SubTexture name="nmi front left0005" x="6415" y="2829" width="1233" height="924"/>
+	<SubTexture name="nmi front left0006" x="0" y="3803" width="1233" height="924"/>
+	<SubTexture name="nmi front left0007" x="0" y="3803" width="1233" height="924"/>
+	<SubTexture name="nmi front left0008" x="0" y="3803" width="1233" height="924"/>
+	<SubTexture name="nmi front left0009" x="0" y="3803" width="1233" height="924"/>
+	<SubTexture name="nmi front left0010" x="0" y="3803" width="1233" height="924"/>
+	<SubTexture name="nmi front left0011" x="0" y="3803" width="1233" height="924"/>
+	<SubTexture name="nmi front left0012" x="0" y="3803" width="1233" height="924"/>
+	<SubTexture name="nmi front left0013" x="0" y="3803" width="1233" height="924"/>
+	<SubTexture name="nmi front left0014" x="0" y="3803" width="1233" height="924"/>
+	<SubTexture name="nmi front right0000" x="1283" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0001" x="1283" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0002" x="2566" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0003" x="2566" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0004" x="3849" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0005" x="3849" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0006" x="5132" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0007" x="5132" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0008" x="6415" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0009" x="6415" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0010" x="6415" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0011" x="6415" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0012" x="6415" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0013" x="6415" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front right0014" x="6415" y="3803" width="1233" height="916"/>
+	<SubTexture name="nmi front up0000" x="0" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0001" x="0" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0002" x="1283" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0003" x="1283" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0004" x="2566" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0005" x="2566" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0006" x="3849" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0007" x="3849" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0008" x="3849" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0009" x="3849" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0010" x="3849" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0011" x="3849" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0012" x="3849" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0013" x="3849" y="4777" width="1233" height="932"/>
+	<SubTexture name="nmi front up0014" x="3849" y="4777" width="1233" height="932"/>
+</TextureAtlas>

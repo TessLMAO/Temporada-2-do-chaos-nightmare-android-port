@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hikari-s3.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hikari front0000" x="0" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0001" x="0" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0002" x="625" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0003" x="625" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0004" x="1250" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0005" x="1250" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0006" x="1875" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0007" x="1875" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0008" x="2500" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0009" x="2500" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0010" x="2500" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0011" x="2500" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0012" x="2500" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0013" x="2500" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front0014" x="3125" y="0" width="575" height="713"/>
+	<SubTexture name="hikari front down0000" x="0" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0001" x="0" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0002" x="625" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0003" x="625" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0004" x="1250" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0005" x="1250" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0006" x="1875" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0007" x="1875" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0008" x="2500" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0009" x="2500" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0010" x="2500" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0011" x="2500" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0012" x="2500" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0013" x="2500" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front down0014" x="2500" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front left0000" x="3125" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front left0001" x="3125" y="763" width="575" height="713"/>
+	<SubTexture name="hikari front left0002" x="0" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0003" x="0" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0004" x="625" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0005" x="625" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0006" x="1250" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0007" x="1250" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0008" x="1875" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0009" x="1875" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0010" x="1875" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0011" x="1875" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0012" x="1875" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0013" x="1875" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front left0014" x="1875" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front right0000" x="2500" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front right0001" x="2500" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front right0002" x="3125" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front right0003" x="3125" y="1526" width="575" height="713"/>
+	<SubTexture name="hikari front right0004" x="0" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0005" x="0" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0006" x="625" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0007" x="625" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0008" x="1250" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0009" x="1250" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0010" x="1250" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0011" x="1250" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0012" x="1250" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0013" x="1250" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front right0014" x="1250" y="2289" width="575" height="713"/>
+	<SubTexture name="hikari front up0000" x="1875" y="2289" width="575" height="730"/>
+	<SubTexture name="hikari front up0001" x="1875" y="2289" width="575" height="730"/>
+	<SubTexture name="hikari front up0002" x="2500" y="2289" width="575" height="730"/>
+	<SubTexture name="hikari front up0003" x="2500" y="2289" width="575" height="730"/>
+	<SubTexture name="hikari front up0004" x="3125" y="2289" width="575" height="730"/>
+	<SubTexture name="hikari front up0005" x="3125" y="2289" width="575" height="730"/>
+	<SubTexture name="hikari front up0006" x="0" y="3069" width="575" height="730"/>
+	<SubTexture name="hikari front up0007" x="0" y="3069" width="575" height="730"/>
+	<SubTexture name="hikari front up0008" x="0" y="3069" width="575" height="730"/>
+	<SubTexture name="hikari front up0009" x="0" y="3069" width="575" height="730"/>
+	<SubTexture name="hikari front up0010" x="0" y="3069" width="575" height="730"/>
+	<SubTexture name="hikari front up0011" x="0" y="3069" width="575" height="730"/>
+	<SubTexture name="hikari front up0012" x="0" y="3069" width="575" height="730"/>
+	<SubTexture name="hikari front up0013" x="0" y="3069" width="575" height="730"/>
+	<SubTexture name="hikari front up0014" x="0" y="3069" width="575" height="730"/>
+</TextureAtlas>

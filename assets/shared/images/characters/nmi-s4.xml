@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nmi-s4.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nmi human down0000" x="0" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0001" x="0" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0002" x="1072" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0003" x="1072" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0004" x="2144" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0005" x="2144" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0006" x="3216" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0007" x="3216" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0008" x="3216" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0009" x="3216" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0010" x="3216" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0011" x="3216" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0012" x="3216" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human down0013" x="3216" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0000" x="4288" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0001" x="4288" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0002" x="5360" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0003" x="5360" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0004" x="6432" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0005" x="6432" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0006" x="0" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0007" x="0" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0008" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0009" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0010" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0011" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0012" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0013" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0014" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0015" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0016" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0017" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0018" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0019" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human entrance0020" x="1072" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0000" x="2144" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0001" x="3216" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0002" x="4288" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0003" x="5360" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0004" x="6432" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0005" x="6432" y="733" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0006" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0007" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0008" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0009" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0010" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0011" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0012" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human idle0013" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0000" x="1072" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0001" x="1072" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0002" x="2144" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0003" x="2144" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0004" x="3216" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0005" x="3216" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0006" x="4288" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0007" x="4288" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0008" x="5360" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0009" x="5360" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0010" x="5360" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0011" x="5360" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0012" x="5360" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human left0013" x="5360" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human right0000" x="6432" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human right0001" x="6432" y="1466" width="1022" height="683"/>
+	<SubTexture name="nmi human right0002" x="0" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0003" x="0" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0004" x="1072" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0005" x="1072" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0006" x="2144" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0007" x="2144" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0008" x="2144" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0009" x="2144" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0010" x="2144" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0011" x="2144" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0012" x="2144" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human right0013" x="2144" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0000" x="3216" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0001" x="3216" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0002" x="4288" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0003" x="4288" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0004" x="5360" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0005" x="5360" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0006" x="6432" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0007" x="6432" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0008" x="6432" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0009" x="6432" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0010" x="6432" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0011" x="6432" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0012" x="6432" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi human up0013" x="6432" y="2199" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0000" x="0" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0001" x="0" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0002" x="1072" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0003" x="1072" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0004" x="2144" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0005" x="2144" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0006" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0007" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0008" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0009" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0010" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0011" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0012" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0013" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle0014" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0000" x="4288" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0001" x="4288" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0002" x="5360" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0003" x="5360" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0004" x="6432" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0005" x="6432" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0006" x="0" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0007" x="0" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0008" x="0" y="3665" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0009" x="0" y="3665" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0010" x="2144" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0011" x="2144" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0012" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0013" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0014" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0015" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0016" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0017" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0018" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0019" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle entrance0020" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0000" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0001" x="3216" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0002" x="2144" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0003" x="2144" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0004" x="0" y="3665" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0005" x="0" y="3665" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0006" x="0" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0007" x="0" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0008" x="5360" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0009" x="5360" y="2932" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0010" x="1072" y="3665" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0011" x="1072" y="3665" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0012" x="4288" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0013" x="4288" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0014" x="4288" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0015" x="4288" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0016" x="4288" y="0" width="1022" height="683"/>
+	<SubTexture name="nmi tv idle exit0017" x="4288" y="0" width="1022" height="683"/>
+	<SubTexture name="you did this0000" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="you did this0001" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="you did this0002" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="you did this0003" x="0" y="1466" width="1022" height="683"/>
+	<SubTexture name="you did this0004" x="2144" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0005" x="2144" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0006" x="2144" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0007" x="2144" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0008" x="3216" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0009" x="4288" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0010" x="4288" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0011" x="5360" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0012" x="5360" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0013" x="6432" y="3665" width="1022" height="683"/>
+	<SubTexture name="you did this0014" x="0" y="4398" width="1022" height="683"/>
+	<SubTexture name="you did this0015" x="1072" y="4398" width="1022" height="683"/>
+	<SubTexture name="you did this0016" x="2144" y="4398" width="1022" height="683"/>
+	<SubTexture name="you did this0017" x="3216" y="4398" width="1022" height="683"/>
+	<SubTexture name="you did this0018" x="3216" y="4398" width="1022" height="683"/>
+	<SubTexture name="you did this0019" x="3216" y="4398" width="1022" height="683"/>
+	<SubTexture name="you did this0020" x="4288" y="4398" width="1022" height="683"/>
+	<SubTexture name="you did this0021" x="5360" y="4398" width="1022" height="683"/>
+	<SubTexture name="you did this0022" x="6432" y="4398" width="1022" height="683"/>
+	<SubTexture name="you did this0023" x="0" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0024" x="0" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0025" x="0" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0026" x="1072" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0027" x="2144" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0028" x="3216" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0029" x="4288" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0030" x="5360" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0031" x="6432" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0032" x="6432" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0033" x="6432" y="5131" width="1022" height="683"/>
+	<SubTexture name="you did this0034" x="0" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0035" x="0" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0036" x="0" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0037" x="0" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0038" x="0" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0039" x="1072" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0040" x="1072" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0041" x="1072" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0042" x="1072" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0043" x="1072" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0044" x="1072" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0045" x="1072" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0046" x="1072" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0047" x="1072" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0048" x="2144" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0049" x="2144" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0050" x="3216" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0051" x="3216" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0052" x="3216" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0053" x="3216" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0054" x="3216" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0055" x="3216" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0056" x="3216" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0057" x="3216" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0058" x="3216" y="5864" width="1022" height="683"/>
+	<SubTexture name="you did this0059" x="3216" y="5864" width="1022" height="683"/>
+</TextureAtlas>

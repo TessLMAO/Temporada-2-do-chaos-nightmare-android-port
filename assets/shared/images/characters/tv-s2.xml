@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tv assets scene 2.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nmi tv laugh0000" x="0" y="0" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0001" x="846" y="0" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0002" x="1692" y="0" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0003" x="2538" y="0" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0004" x="3384" y="0" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0005" x="4230" y="0" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0006" x="5076" y="0" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0007" x="5922" y="0" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0008" x="6768" y="0" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0009" x="0" y="842" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0010" x="846" y="842" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0011" x="1692" y="842" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0012" x="2538" y="842" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0013" x="3384" y="842" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0014" x="4230" y="842" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0015" x="5076" y="842" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0016" x="5922" y="842" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0017" x="6768" y="842" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0018" x="0" y="1684" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0019" x="846" y="1684" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0020" x="1692" y="1684" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0021" x="2538" y="1684" width="796" height="792"/>
+	<SubTexture name="nmi tv laugh0022" x="3384" y="1684" width="796" height="792"/>
+	<SubTexture name="tv static0000" x="0" y="0" width="796" height="792"/>
+	<SubTexture name="tv static0001" x="4230" y="1684" width="796" height="792"/>
+	<SubTexture name="tv static0002" x="5076" y="1684" width="796" height="792"/>
+	<SubTexture name="tv static0003" x="5922" y="1684" width="796" height="792"/>
+	<SubTexture name="tv static0004" x="6768" y="1684" width="796" height="792"/>
+	<SubTexture name="tv static0005" x="0" y="2526" width="796" height="792"/>
+	<SubTexture name="tv static0006" x="846" y="2526" width="796" height="792"/>
+	<SubTexture name="tv static0007" x="1692" y="2526" width="796" height="792"/>
+	<SubTexture name="tv static0008" x="2538" y="2526" width="796" height="792"/>
+	<SubTexture name="tv static0009" x="3384" y="2526" width="796" height="792"/>
+	<SubTexture name="tv static0010" x="4230" y="2526" width="796" height="792"/>
+	<SubTexture name="tv static0011" x="5076" y="2526" width="796" height="792"/>
+	<SubTexture name="tv static0012" x="5922" y="2526" width="796" height="792"/>
+	<SubTexture name="tv static0013" x="6768" y="2526" width="796" height="792"/>
+	<SubTexture name="tv static0014" x="0" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0000" x="846" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0001" x="1692" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0002" x="2538" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0003" x="3384" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0004" x="4230" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0005" x="4230" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0006" x="5076" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0007" x="5922" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0008" x="6768" y="3368" width="796" height="792"/>
+	<SubTexture name="tv turn off0009" x="0" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0010" x="846" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0011" x="846" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0012" x="1692" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0013" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0014" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0015" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0016" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0017" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0018" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0019" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0020" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0021" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0022" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0023" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0024" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0025" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0026" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0027" x="2538" y="4210" width="796" height="792"/>
+	<SubTexture name="tv turn off0028" x="2538" y="4210" width="796" height="792"/>
+</TextureAtlas>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hikari-s4.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floating down0000" x="0" y="0" width="322" height="458" frameX="0" frameY="-16" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0001" x="372" y="0" width="322" height="458" frameX="0" frameY="-16" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0002" x="744" y="0" width="322" height="458" frameX="0" frameY="-16" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0003" x="744" y="0" width="322" height="458" frameX="0" frameY="-16" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0004" x="1116" y="0" width="322" height="474"/>
+	<SubTexture name="floating down0005" x="1116" y="0" width="322" height="474"/>
+	<SubTexture name="floating down0006" x="1488" y="0" width="322" height="468" frameX="0" frameY="-6" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0007" x="1488" y="0" width="322" height="468" frameX="0" frameY="-6" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0008" x="1860" y="0" width="322" height="471" frameX="0" frameY="-3" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0009" x="1860" y="0" width="322" height="471" frameX="0" frameY="-3" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0010" x="2232" y="0" width="322" height="471" frameX="0" frameY="-3" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0011" x="2232" y="0" width="322" height="471" frameX="0" frameY="-3" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0012" x="2604" y="0" width="322" height="471" frameX="0" frameY="-3" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating down0013" x="2604" y="0" width="322" height="471" frameX="0" frameY="-3" frameWidth="322" frameHeight="474"/>
+	<SubTexture name="floating idle0000" x="2976" y="0" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0001" x="2976" y="0" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0002" x="3440" y="0" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0003" x="3440" y="0" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0004" x="0" y="623" width="414" height="575"/>
+	<SubTexture name="floating idle0005" x="0" y="623" width="414" height="575"/>
+	<SubTexture name="floating idle0006" x="464" y="623" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0007" x="464" y="623" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0008" x="928" y="623" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0009" x="928" y="623" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0010" x="1392" y="623" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0011" x="1392" y="623" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0012" x="1856" y="623" width="414" height="573" frameX="0" frameY="-2" frameWidth="414" frameHeight="575"/>
+	<SubTexture name="floating idle0013" x="2320" y="623" width="414" height="575"/>
+	<SubTexture name="floating left0000" x="2784" y="623" width="529" height="319"/>
+	<SubTexture name="floating left0001" x="2784" y="623" width="529" height="319"/>
+	<SubTexture name="floating left0002" x="3363" y="623" width="529" height="319"/>
+	<SubTexture name="floating left0003" x="3363" y="623" width="529" height="319"/>
+	<SubTexture name="floating left0004" x="0" y="1248" width="529" height="319"/>
+	<SubTexture name="floating left0005" x="0" y="1248" width="529" height="319"/>
+	<SubTexture name="floating left0006" x="579" y="1248" width="529" height="319"/>
+	<SubTexture name="floating left0007" x="579" y="1248" width="529" height="319"/>
+	<SubTexture name="floating left0008" x="1158" y="1248" width="529" height="319"/>
+	<SubTexture name="floating left0009" x="1158" y="1248" width="529" height="319"/>
+	<SubTexture name="floating left0010" x="1158" y="1248" width="529" height="319"/>
+	<SubTexture name="floating left0011" x="1158" y="1248" width="529" height="319"/>
+	<SubTexture name="floating left0012" x="1158" y="1248" width="529" height="319"/>
+	<SubTexture name="floating left0013" x="1158" y="1248" width="529" height="319"/>
+	<SubTexture name="floating right0000" x="1737" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0001" x="1737" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0002" x="2202" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0003" x="2202" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0004" x="2667" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0005" x="2667" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0006" x="3132" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0007" x="3132" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0008" x="3132" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0009" x="3132" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0010" x="3132" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0011" x="3132" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0012" x="3132" y="1248" width="415" height="532"/>
+	<SubTexture name="floating right0013" x="3132" y="1248" width="415" height="532"/>
+	<SubTexture name="floating up0000" x="3597" y="1248" width="414" height="674"/>
+	<SubTexture name="floating up0001" x="0" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0002" x="464" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0003" x="928" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0004" x="1392" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0005" x="1856" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0006" x="2320" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0007" x="2784" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0008" x="2784" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0009" x="3248" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0010" x="3248" y="1972" width="414" height="674"/>
+	<SubTexture name="floating up0011" x="0" y="2696" width="414" height="674"/>
+	<SubTexture name="floating up0012" x="0" y="2696" width="414" height="674"/>
+	<SubTexture name="floating up0013" x="2320" y="1972" width="414" height="674"/>
+</TextureAtlas>

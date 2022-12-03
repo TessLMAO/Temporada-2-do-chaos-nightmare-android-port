@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tv static"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "off",
+			"loop": false,
+			"name": "tv turn off"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "nmi tv laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tv-s2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tv",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		203,
+		203
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

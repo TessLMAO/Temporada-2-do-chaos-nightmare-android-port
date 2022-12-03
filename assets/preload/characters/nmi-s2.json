@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nmi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				409,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nmi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nmi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-382,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nmi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nmi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				0
+			],
+			"anim": "entrance",
+			"fps": 24,
+			"name": "nmi entrance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nmi-s2",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "nmi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

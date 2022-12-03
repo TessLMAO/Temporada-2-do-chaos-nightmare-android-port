@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "floating idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-105
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "floating down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "floating up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				119,
+				-106
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "floating right"
+		},
+		{
+			"offsets": [
+				-62,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "floating left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hikari-s4",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "hikari",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
